@@ -16,7 +16,7 @@ const myapp = DOM.div(
             color: "dimgrey",
         },
     },
-    DOM.h1(null, "React practice."),
+    DOM.h1(null, "交換留学.com Test"),
     React.createElement(myTextarea, {author: "kikimetal"}),
     React.createElement(hello),
     React.createElement(excel),
