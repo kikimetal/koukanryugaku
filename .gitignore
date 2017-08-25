@@ -1,0 +1,4 @@
+#dev and private
+node_modules
+dist
+memo
